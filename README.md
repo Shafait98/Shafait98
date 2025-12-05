@@ -30,8 +30,8 @@ Currently looking for **remote front-end/junior developer roles**, internships, 
 | Project | Description | Link |
 |---------|-------------|------|
 | **Portfolio** | Personal portfolio site showcasing skills & projects | [View](https://shafait98.github.io/webdev-protfolio/) |
-| **To-Do App** | JavaScript To-Do app with `localStorage` | [View](https://shafait98.github.io/B12A01-landing-launchpad/) |
-| **React Weather App** | React app consuming weather API | [View](https://shafait98.github.io/B12-A5-Emergency-Hotline/) |
+| **Responsive agency website** | Responsive 360 agency website `localStorage` | [View](https://shafait98.github.io/B12A01-landing-launchpad/) |
+| **Emergency Hotline App** | Responsive Emergency Hotline app | [View](https://shafait98.github.io/B12-A5-Emergency-Hotline/) |
 
 > Projects demonstrate practical application of **HTML, CSS, JS, React**, and **responsive design principles**.
 
