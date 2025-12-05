@@ -61,9 +61,4 @@ Currently looking for **remote front-end/junior developer roles**, internships, 
 ### ⚡ Fun Fact
 When I’m not coding, I enjoy **designing visuals** and experimenting with **AI-powered web tools** to enhance UI creativity.
 
----
 
-## 📊 GitHub Stats
-
-![Shafait's GitHub stats](https://github-readme-stats.vercel.app/api?username=shafait98&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafait98&layout=compact&theme=radical)
